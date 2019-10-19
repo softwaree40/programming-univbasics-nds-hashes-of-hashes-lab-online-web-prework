@@ -54,7 +54,22 @@ def naming_system
           label: "Family",
              sub_category: {
              label: "Genus",
+<<<<<<< HEAD
                  sub_category: {
                    label: "Species",
                    sub_category: nil } }}}}}}
+=======
+                 label: "Genus",
+                 sub_category: nil
+            
+    }
+  }
+ }
+     }
+   }
+  
+ }
+  
+
+>>>>>>> 1c03a89f0a6acc1084bcb1e5d81a4a42326bcbb4
 end
